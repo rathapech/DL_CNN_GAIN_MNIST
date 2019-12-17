@@ -1,3 +1,3 @@
 # DL_GAN_MNIST
 
-The code implemented **Deep Learning**, **CNN** and **GAN** on **MNIST** data.  
+The code implemented **Deep Learning**, and **GAN** on **MNIST** data.  
